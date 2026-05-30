@@ -49,7 +49,9 @@ document.getElementById(
 
 const words = [
 
-  "Frontend Developer",
+  "Full-Stack Developer",
+
+  "VLSI Aspirant",
 
   "IoT Enthusiast",
 
