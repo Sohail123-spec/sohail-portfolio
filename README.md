@@ -1,13 +1,13 @@
 # 💼 Sohail Ahmed — Portfolio
-**Personal developer portfolio showcasing projects, skills, and resume.**
+**Personal developer portfolio showcasing engineering projects, skills, and resume.**
 
-🔗 **Live:** _add your deployed link here (Vercel/Netlify/GitHub Pages)_
+🔗 **Live:** [sohail123-spec.github.io/sohail-portfolio](https://sohail123-spec.github.io/sohail-portfolio/)
 
 ---
 
 ## 🚀 About
 
-A responsive personal portfolio site presenting my projects, technical skills, and engineering background, with a downloadable resume.
+A responsive personal portfolio for an Electronics and Communication Engineering student exploring VLSI, Digital Design, and Software Development — presenting featured projects, technical skills, achievements, and a downloadable resume.
 
 ---
 
@@ -18,6 +18,7 @@ A responsive personal portfolio site presenting my projects, technical skills, a
 | Structure | HTML5 |
 | Styling | CSS3 |
 | Interactivity | Vanilla JavaScript |
+| Hosting | GitHub Pages |
 
 ---
 
@@ -52,6 +53,6 @@ sohail-portfolio/
 ---
 
 ## 👨‍💻 Author
-Built by **Md Sohail Ahmed**
+Built by **Md Sohail Ahmed** — ECE student at Anurag University
 📧 ecmdsohailahmed@gmail.com
 🔗 [LinkedIn](https://www.linkedin.com/in/contactmdsohailahmed)
